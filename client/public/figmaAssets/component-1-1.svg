@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- PayPal P Logo based on provided image -->
+  <g transform="translate(4, 2)">
+    <!-- Dark blue vertical section of P -->
+    <path d="M6 6 L18 3 Q28 2 36 6 Q44 10 48 18 Q52 26 52 36 Q52 46 48 54 Q44 62 36 66 Q28 68 18 67 L6 64 L0 88 L-8 86 L6 6 Z" fill="#1C3A7A"/>
+    
+    <!-- Medium blue rounded top of P -->
+    <path d="M18 14 L32 12 Q42 12 48 18 Q54 24 54 34 Q54 44 48 50 Q42 56 32 56 L18 54 L18 14 Z" fill="#2681D5"/>
+    
+    <!-- Light blue rounded section -->
+    <path d="M18 32 L28 30 Q36 30 42 36 Q48 42 48 52 Q48 62 42 68 Q36 74 28 74 L18 72 L18 32 Z" fill="#7BC5E8"/>
+  </g>
+</svg>
